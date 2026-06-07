@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AccountManagement.API/AccountManagement.API.csproj" />
+  <Project Path="AccountManagementAppService/AccountManagementAppService.csproj" />
+  <Project Path="AccountManagementDataService/AccountManagementDataService.csproj" />
+  <Project Path="AccountManagementModels/AccountManagementModels.csproj" />
+</Solution>

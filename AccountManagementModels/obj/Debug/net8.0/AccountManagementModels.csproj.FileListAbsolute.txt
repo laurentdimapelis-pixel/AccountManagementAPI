@@ -1,0 +1,12 @@
+/workspaces/AccountManagementAPI/AccountManagementModels/bin/Debug/net8.0/AccountManagementModels.deps.json
+/workspaces/AccountManagementAPI/AccountManagementModels/bin/Debug/net8.0/AccountManagementModels.dll
+/workspaces/AccountManagementAPI/AccountManagementModels/bin/Debug/net8.0/AccountManagementModels.pdb
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.AssemblyInfoInputs.cache
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.AssemblyInfo.cs
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.csproj.CoreCompileInputs.cache
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.sourcelink.json
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.dll
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/refint/AccountManagementModels.dll
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/AccountManagementModels.pdb
+/workspaces/AccountManagementAPI/AccountManagementModels/obj/Debug/net8.0/ref/AccountManagementModels.dll

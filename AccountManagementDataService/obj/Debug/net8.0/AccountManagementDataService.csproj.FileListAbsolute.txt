@@ -1,0 +1,16 @@
+/workspaces/AccountManagementAPI/AccountManagementDataService/bin/Debug/net8.0/AccountManagementDataService.deps.json
+/workspaces/AccountManagementAPI/AccountManagementDataService/bin/Debug/net8.0/AccountManagementDataService.dll
+/workspaces/AccountManagementAPI/AccountManagementDataService/bin/Debug/net8.0/AccountManagementDataService.pdb
+/workspaces/AccountManagementAPI/AccountManagementDataService/bin/Debug/net8.0/AccountManagementModels.dll
+/workspaces/AccountManagementAPI/AccountManagementDataService/bin/Debug/net8.0/AccountManagementModels.pdb
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.csproj.AssemblyReference.cache
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.AssemblyInfoInputs.cache
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.AssemblyInfo.cs
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.csproj.CoreCompileInputs.cache
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.sourcelink.json
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountM.D09461E3.Up2Date
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.dll
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/refint/AccountManagementDataService.dll
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/AccountManagementDataService.pdb
+/workspaces/AccountManagementAPI/AccountManagementDataService/obj/Debug/net8.0/ref/AccountManagementDataService.dll
